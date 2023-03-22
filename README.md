@@ -65,7 +65,7 @@ Make sure to replace the button selector with the correct one for the webpage yo
 - [Tinder-Auto-Swiper](https://github.com/C1N-S4/Tinder-Auto-Swiper/) - Tinder Auto Swiper Tool
 
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> [tedixo.com](https://www.tedixo.ca/) &nbsp;&middot;&nbsp;
+> GitHub [@C1N-S4](https://github.com/C4N-S4) &nbsp;&middot;&nbsp;
+> Twitter [@umutcaned](https://twitter.com/umutcaned)
 
