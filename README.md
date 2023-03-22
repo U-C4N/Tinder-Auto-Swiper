@@ -52,24 +52,22 @@
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To use this script in Chrome console page, follow these steps:
+
+Go to the webpage where you want to automatically click a button.
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
 
-# Go into the repository
-$ cd electron-markdownify
+Open the Chrome console by pressing Ctrl + Shift + J (Windows) or Cmd + Option + J (Mac).
+Copy and paste the script into the console.
+Press Enter to run the script.
+The script will automatically click the button every second and increase the click count by one. You can see the number of clicks in the console log.
+Make sure to replace the button selector with the correct one for the webpage you're using the script on. You can find the selector by inspecting the button element and copying its class or ID.
 
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
 ```
 
 > **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+> Automating clicks on websites may violate their terms of service, so use this script at your own risk.
 
 
 ## Recent projects
