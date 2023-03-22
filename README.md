@@ -32,23 +32,12 @@
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+*Like automation: The plugin could automate the process of swiping right or liking profiles on the dating app, allowing users to easily and quickly go through many potential matches. The user could set criteria for the profiles they are interested in, such as age range, location, or interests.
+
+*Auto-message: The plugin could include a feature that automatically sends pre-written messages to potential matches, saving users time and effort in crafting individual messages.
+
+*Customization options: The plugin could allow users to customize their experience, such as setting the frequency of likes or adjusting the criteria for potential matches.
+
 
 ## How To Use
 
