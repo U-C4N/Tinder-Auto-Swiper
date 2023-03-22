@@ -67,5 +67,5 @@ Make sure to replace the button selector with the correct one for the webpage yo
 
 > [tedixo.com](https://www.tedixo.ca/) &nbsp;&middot;&nbsp;
 > GitHub [@C1N-S4](https://github.com/C4N-S4) &nbsp;&middot;&nbsp;
-> Twitter [@umutcaned](https://twitter.com/umutcaned)
+> Twitter [@umutcan1997](https://twitter.com/umutcan1997)
 
