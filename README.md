@@ -32,11 +32,11 @@
 
 ## Key Features
 
-*Like automation: The plugin could automate the process of swiping right or liking profiles on the dating app, allowing users to easily and quickly go through many potential matches. The user could set criteria for the profiles they are interested in, such as age range, location, or interests.
+* Like automation: The plugin could automate the process of swiping right or liking profiles on the dating app, allowing users to easily and quickly go through many potential matches. The user could set criteria for the profiles they are interested in, such as age range, location, or interests.
 
-*Auto-message: The plugin could include a feature that automatically sends pre-written messages to potential matches, saving users time and effort in crafting individual messages.
+* Auto-message: The plugin could include a feature that automatically sends pre-written messages to potential matches, saving users time and effort in crafting individual messages.
 
-*Customization options: The plugin could allow users to customize their experience, such as setting the frequency of likes or adjusting the criteria for potential matches.
+* Customization options: The plugin could allow users to customize their experience, such as setting the frequency of likes or adjusting the criteria for potential matches.
 
 
 ## How To Use
