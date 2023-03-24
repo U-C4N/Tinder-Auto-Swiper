@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Version 0.2 <a href="http://www.anumverse.com/" target="_blank">Anumverse</a></h4>
+<h4 align="center">Version 0.3 <a href="http://www.anumverse.com/" target="_blank">Anumverse</a></h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
