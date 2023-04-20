@@ -22,7 +22,7 @@
 
 ## Key Features
 
-**Limit on number of clicks: The script will automatically stop after a certain number of clicks, which can be configured.
+** Limit on number of clicks: The script will automatically stop after a certain number of clicks, which can be configured.
 
 **Dynamic element selection: The script allows for dynamic selection of the element to be clicked, making it flexible and adaptable to different websites.
 
