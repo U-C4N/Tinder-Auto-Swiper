@@ -22,11 +22,17 @@
 
 ## Key Features
 
-* Like automation: The plugin could automate the process of swiping right or liking profiles on the dating app, allowing users to easily and quickly go through many potential matches. The user could set criteria for the profiles they are interested in, such as age range, location, or interests.
+**Limit on number of clicks: The script will automatically stop after a certain number of clicks, which can be configured.
 
-* Auto-message: The plugin could include a feature that automatically sends pre-written messages to potential matches, saving users time and effort in crafting individual messages.
+**Dynamic element selection: The script allows for dynamic selection of the element to be clicked, making it flexible and adaptable to different websites.
 
-* Customization options: The plugin could allow users to customize their experience, such as setting the frequency of likes or adjusting the criteria for potential matches.
+**User-defined interval time: The interval time between clicks can be adjusted by the user, allowing for customization of the clicking speed.
+
+**Conditional clicking: The script includes a check for a specified condition before clicking, ensuring that it only clicks when the desired state of the website has been reached.
+
+**Logging of click count: The script logs the number of clicks in the console, allowing for easy tracking of progress.
+
+With these key features, this script is a powerful tool for automating repetitive clicking tasks.
 
 
 ## How To Use
