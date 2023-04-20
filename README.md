@@ -22,13 +22,13 @@
 
 ## Key Features
 
-** Limit on number of clicks: The script will automatically stop after a certain number of clicks, which can be configured.
+Limit on number of clicks: The script will automatically stop after a certain number of clicks, which can be configured.
 
-**Dynamic element selection: The script allows for dynamic selection of the element to be clicked, making it flexible and adaptable to different websites.
+Dynamic element selection: The script allows for dynamic selection of the element to be clicked, making it flexible and adaptable to different websites.
 
-**User-defined interval time: The interval time between clicks can be adjusted by the user, allowing for customization of the clicking speed.
+User-defined interval time: The interval time between clicks can be adjusted by the user, allowing for customization of the clicking speed.
 
-**Conditional clicking: The script includes a check for a specified condition before clicking, ensuring that it only clicks when the desired state of the website has been reached.
+Conditional clicking: The script includes a check for a specified condition before clicking, ensuring that it only clicks when the desired state of the website has been reached.
 
 **Logging of click count: The script logs the number of clicks in the console, allowing for easy tracking of progress.
 
