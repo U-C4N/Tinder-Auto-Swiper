@@ -1,18 +1,12 @@
 let clickCount = 0;
 let defaultLimit = 10;
 
-chrome.storage.sync.get(['limit'], function(result) {
-  defaultLimit = result.limit || defaultLimit;
-});
-
 const getLikeLimit = () => {
   return new Promise((resolve) => {
-    chrome.storage.sync.get(['limit'], function(result) {
-      const userLimit = result.limit || prompt(`Like limit (default: ${defaultLimit}):`, defaultLimit);
-      const limit = isNaN(userLimit) || userLimit <= 0 ? defaultLimit : parseInt(userLimit);
-      chrome.storage.sync.set({limit: limit}, function() {
-        resolve(limit);
-      });
+    const userInput = prompt("How many likes do you want to perform?", defaultLimit);
+    const limit = isNaN(userInput) || userInput <= 0 ? defaultLimit : parseInt(userInput);
+    chrome.storage.sync.set({limit: limit}, function() {
+      resolve(limit);
     });
   });
 };
@@ -34,12 +28,13 @@ const autoSwipe = async () => {
     if (clickCount >= limit) {
       clearInterval(intervalId);
       const timeSpent = ((Date.now() - startTime) / 1000).toFixed(2);
-      alert(`Limit: ${clickCount} likes\nTime: ${timeSpent} seconds`);
+      console.log(`Limit: ${clickCount} likes\nTime: ${timeSpent} seconds`);
       clickCount = 0;
     }
   }, 1000);
 };
 
+// Listen for messages from the service worker
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.action === "startAutoSwipe") {
     autoSwipe();

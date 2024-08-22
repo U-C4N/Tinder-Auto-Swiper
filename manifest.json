@@ -4,12 +4,12 @@
   "version": "1.0",
   "description": "An extension that automatically likes on Tinder",
   "permissions": ["activeTab", "storage"],
-  "browser_action": {
+  "action": {
     "default_title": "Start Tinder Auto Swiper"
   },
   "background": {
-    "scripts": ["background.js"],
-    "persistent": false
+    "service_worker": "background.js",
+    "type": "module"
   },
   "content_scripts": [
     {
