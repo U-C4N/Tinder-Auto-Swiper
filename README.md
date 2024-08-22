@@ -8,9 +8,9 @@ Tinder Auto Swiper is a powerful Chrome extension designed to automate the swipi
 
 Join an exclusive group of up to 100 early adopters and be among the first to experience the future of AI-powered browsing!
 
-[![Download on Chrome Web Store](./assets/AppIcons/chrome-store.png)](https://chromewebstore.google.com/detail/bahjnakiionbepnlbogdkojcehaeefnp)
+[![Download on Chrome Web Store](.chrome-store.png)](https://chromewebstore.google.com/detail/tinder-auto-swiper/dembcgcjcbheckeifajiofbigpcenbcl)
 
-[link-chrome]: https://chromewebstore.google.com/detail/bahjnakiionbepnlbogdkojcehaeefnp "Version published on Chrome Web Store"
+[link-chrome]: https://chromewebstore.google.com/detail/tinder-auto-swiper/dembcgcjcbheckeifajiofbigpcenbclp "Version published on Chrome Web Store"
 
 -  [<img valign="middle" src="https://img.shields.io/chrome-web-store/v/dembcgcjcbheckeifajiofbigpcenbcl.svg?label=%20">]
 ## Features
