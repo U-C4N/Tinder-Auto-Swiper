@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Tinder Auto Swiper",
-  "version": "1.0",
+  "version": "2.0",
   "description": "An extension that automatically likes on Tinder",
   "permissions": ["activeTab", "storage"],
   "action": {
