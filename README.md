@@ -4,6 +4,16 @@
 
 Tinder Auto Swiper is a powerful Chrome extension designed to automate the swiping process on Tinder.com. This extension enhances your Tinder experience by allowing you to set a custom number of likes to perform automatically, saving you time and effort.
 
+## Pre-release on Google Chrome Store
+
+Join an exclusive group of up to 100 early adopters and be among the first to experience the future of AI-powered browsing!
+
+[![Download on Chrome Web Store](./assets/AppIcons/chrome-store.png)](https://chromewebstore.google.com/detail/bahjnakiionbepnlbogdkojcehaeefnp)
+
+[link-chrome]: https://chromewebstore.google.com/detail/bahjnakiionbepnlbogdkojcehaeefnp "Version published on Chrome Web Store"
+
+-  [<img valign="middle" src="https://img.shields.io/chrome-web-store/v/bahjnakiionbepnlbogdkojcehaeefnp.svg?label=%20">][link-chrome] also compatible with [<img src="./assets/AppIcons/edge.svg" width="24" alt="Edge" valign="middle">][link-chrome] [<img src="./assets/AppIcons/opera.svg" width="24" alt="Opera" valign="middle">][link-chrome] [<img src="./assets/AppIcons/brave.svg" width="24" alt="Brave" valign="middle">][link-chrome]
+
 ## Features
 
 - **Automated Swiping**: Automatically swipes right (likes) on Tinder profiles.
@@ -43,11 +53,7 @@ This extension is for educational purposes only. Use it responsibly and in accor
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/tinder-auto-swiper/issues) if you want to contribute.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/U-C4N/Tinder-Auto-Swiper/issues) if you want to contribute.
 
 ## Author
 
